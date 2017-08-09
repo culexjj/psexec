@@ -6,9 +6,13 @@ exe, msi, msu, vbs and also uninstall software if you have the installation stri
 
 Finally you will find out some other PSEXEC uses such as:
 
-  Checking computer architecture
-  Checking HF installed
-  Checking computers online
-  Checking IE version
+  Checking computer architecture,
+  
+  Checking HF installed,
+  
+  Checking computers online,
+  
+  Checking IE version,
+  
 
 Emailing to 'culex.jj@gmail.com' if you find out whatever error/question and so on.
