@@ -14,5 +14,7 @@ Finally you will find out some other PSEXEC uses such as:
   
   Checking IE version,
   
+  Uninstall any program provide that you know the uninstallString 
+  
 
 Emailing to 'culex.jj@gmail.com' if you find out whatever error/question and so on.
